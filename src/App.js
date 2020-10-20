@@ -73,8 +73,7 @@ function App() {
     <div className="app">
       <div className="app_left">
       <div className="app_header">
-        <h1>Covid-19 Trac
-        ker</h1>
+        <h1>Covid-19 Tracker</h1>
           <FormControl className="app-dropdown">
             <Select 
             onChange={onCountryChange}
